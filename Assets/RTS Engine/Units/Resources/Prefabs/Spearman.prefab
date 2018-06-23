@@ -822,7 +822,7 @@ MonoBehaviour:
   CanBeMoved: 1
   CanBeConverted: 1
   IsInvisible: 0
-  MaxHealth: 125
+  MaxHealth: 80
   HoverHealthBarY: 2
   Health: 0
   TakeDamage: 1

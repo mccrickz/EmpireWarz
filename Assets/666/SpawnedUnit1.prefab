@@ -857,7 +857,7 @@ MonoBehaviour:
   DestroyObjTime: 0
   DestroyAward:
   - Name: Souls
-    Amount: 15
+    Amount: 5
   StopMvtOnTakeDamage: 0
   EnableTakeDamageAnim: 1
   TakeDamageDuration: 0.5
@@ -886,7 +886,7 @@ MonoBehaviour:
   CreatedBy: {fileID: 0}
   NavAgent: {fileID: 0}
   DestinationReached: 0
-  Speed: 4
+  Speed: 1
   RotationDamping: 2
   RotationLookAt: {x: 0, y: 0, z: 0}
   CanRotate: 0
